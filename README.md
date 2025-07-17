@@ -1,2 +1,2 @@
-# DL-Basics
-Basics of Neuron
+# DL-Multi Layer Perceptron
+Multi Layer Perceptron
